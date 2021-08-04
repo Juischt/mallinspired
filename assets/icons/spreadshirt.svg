@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300mm"
+   height="300mm"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg927"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="spreadshirt.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview929"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="300mm"
+     inkscape:zoom="0.25"
+     inkscape:cx="2510"
+     inkscape:cy="961.99999"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs924" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke-width:0.375983"
+       d="M 346.9541,420.11189 300,367.85214 l 30.47122,-33.91184 30.47119,-33.91189 16.57836,18.44313 16.57836,18.44314 16.55541,-18.45734 L 427.20995,300 l 30.48214,33.9275 30.4821,33.92751 -46.95479,52.25833 c -25.82517,28.74206 -47.03502,52.2583 -47.13304,52.2583 -0.098,0 -21.30752,-23.51688 -47.13226,-52.25975 z m 80.36778,-15.46995 33.05486,-36.79074 -16.48484,-18.34402 c -9.06668,-10.08917 -16.64393,-18.34397 -16.83839,-18.34397 -0.1945,0 -7.69157,8.1656 -16.66031,18.14577 l -16.3068,18.14582 -16.48161,-18.34363 -16.48165,-18.34359 -16.66254,18.54183 -16.66254,18.54179 33.05482,36.79074 c 18.18018,20.23495 33.1357,36.79079 33.23448,36.79079 0.0988,0 15.05434,-16.55584 33.23452,-36.79079 z"
+       id="path716" />
+    <path
+       id="Path_633_5_"
+       class="st1"
+       d="M 150.08084,78.921876 97.520182,26.361229 0,123.88145 v 0 l 149.9191,149.91911 v 0 L 300,123.71972 202.64149,26.1995 Z m 0,149.919134 L 44.959527,123.71972 97.520182,71.159066 150.08084,123.71972 v 0 l 52.39892,-52.398924 52.56065,52.560654 z"
+       style="fill:#a4453f;fill-opacity:1" />
+    <path
+       style="fill:#a4453f;fill-opacity:1;stroke-width:0.168648"
+       d="m 554.97744,924.06314 -11.59426,-11.59519 v -2.07967 -2.07968 l 9.73941,9.59073 c 14.21683,13.99979 13.28807,13.12705 13.74135,12.91258 0.8539,-0.404 46.25455,-45.36352 118.53742,-117.38564 l 13.93018,-13.87993 1.62835,0.0486 1.62835,0.0486 -68.00826,68.00742 -68.00827,68.00741 z"
+       id="path2585"
+       transform="scale(0.26458333)" />
+  </g>
+</svg>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300mm"
+   height="300mm"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg780"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="etsy.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview782"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="300mm"
+     inkscape:zoom="0.37059484"
+     inkscape:cx="1493.5448"
+     inkscape:cy="711.01908"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs777">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath614">
+      <rect
+         style="fill:#a4453f"
+         id="rect616"
+         width="336.55536"
+         height="422.67136"
+         x="237.25835"
+         y="67.662567" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       class="st0"
+       d="m 357.3,124.3 v 134.5 c 0,0 47.4,0 72.8,-1.9 19.9,-3.5 23.6,-5.4 27.3,-25.4 l 7.3,-29.2 h 21.7 l -3.7,63.8 1.9,65.4 H 462.7 L 457.3,306 c -5.4,-18.2 -12.8,-21.9 -27.3,-23.6 -18.2,-1.9 -72.8,-1.9 -72.8,-1.9 v 112.8 c 0,21.7 11,31 36.4,31 H 470 c 23.6,0 47.2,-1.9 61.9,-36.4 l 19.8,-43.7 h 18.4 c -1.9,9.1 -11,89.2 -12.8,107.2 0,0 -69.1,-1.7 -98.1,-1.7 h -131 l -78.2,1.7 v -19.8 l 25.4,-5.6 c 18.4,-3.7 23.8,-9.1 23.8,-23.6 0,0 1.9,-49.1 1.9,-131 0,-81.7 -1.9,-130.8 -1.9,-130.8 0,-16.3 -5.4,-19.9 -23.8,-23.6 L 250,111.6 V 91.5 l 76.4,1.6 H 472 c 29,0 78,-5.2 78,-5.2 0,0 -1.7,30.8 -3.7,103.5 h -19.9 l -7.3,-25.5 c -7.2,-32.7 -18,-49 -38.1,-49 H 366.6 c -9.3,0 -9.3,1.8 -9.3,7.4 z"
+       id="path11"
+       clip-path="url(#clipPath614)"
+       style="fill:#a4453f"
+       transform="matrix(0.82530949,0,0,0.82530949,-188.41837,-72.544704)"
+       sodipodi:nodetypes="scccccccccccsssccccscccccscccccsccccsss" />
+  </g>
+</svg>
