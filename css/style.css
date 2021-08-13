@@ -54,3 +54,38 @@
     font-size: medium;
   }
 }
+
+
+/*.recht {}*/
+.recht-title {
+  display: block;
+  margin: 2rem 0rem 1rem 0rem;
+  font-weight: 700;
+}
+
+.address {
+  margin: 1rem 0rem 1rem 0rem;
+  font-weight: 600;
+}
+
+.short-address {
+  font-weight: 700;
+  font-style: italic;
+}
+
+.hlink {
+  font-style: none;
+  text-decoration: none;
+  font-variant: none;
+  font-weight: 600;
+}
+
+p {
+  margin: 0rem 0 -0.5rem 0;
+}
+
+@media (max-width: 768px) {
+  .recht {
+    font-size: smaller;
+  }
+}
