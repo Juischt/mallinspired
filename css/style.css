@@ -31,30 +31,42 @@
 }
 
 .slide-text {
-  color: #f2edda;
+  color: #ffffff;
+}
+
+.slide-img {
+  filter: brightness(60%);
 }
 
 .impressum {
   font-size: large;
 }
 
-@media(min-width: 768px) {
-  .card, .card-title, .card-body, card-header {
+@media (min-width: 768px) {
+  .card,
+  .card-title,
+  .card-body,
+  card-header {
     font-size: medium;
   }
 }
-@media(min-width: 1200px) {
-  .card, .card-title, .card-body, card-header {
+@media (min-width: 1200px) {
+  .card,
+  .card-title,
+  .card-body,
+  card-header {
     font-size: medium;
   }
 }
 
-@media(max-width: 768px) {
-  .card, .card-title, .card-body, card-header {
+@media (max-width: 768px) {
+  .card,
+  .card-title,
+  .card-body,
+  card-header {
     font-size: medium;
   }
 }
-
 
 /*.recht {}*/
 .recht-title {
@@ -78,14 +90,54 @@
   text-decoration: none;
   font-variant: none;
   font-weight: 600;
+  -moz-hyphens: auto;
+  -o-hyphens: auto;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
 }
 
 p {
   margin: 0rem 0 -0.5rem 0;
 }
 
+.product-text {
+  position: absolute;
+  right: 0%;
+  bottom: 1.25rem;
+  left: 0%;
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+  color: #fff;
+  text-align: center;
+}
+
+.product-category-container {
+  position: relative;
+  text-align: center;
+  color: black;
+}
+
+.product-category-img {
+  width: 50rem;
+  border-radius: 0.5rem;
+  border: 0 none;
+  box-shadow: 0.2rem 0.3rem 0.5rem 0.1rem rgba(0, 0, 0, 0.705);
+  margin: 0;
+  padding: 0;
+  filter: brightness(70%);
+}
+
 @media (max-width: 768px) {
   .recht {
     font-size: smaller;
+  }
+  .product-category-img {
+    width: 90%;
+  }
+  .product-text {
+    bottom: 0.5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
   }
 }
