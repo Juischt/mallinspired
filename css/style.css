@@ -122,7 +122,7 @@ p {
   width: 50rem;
   border-radius: 0.5rem;
   border: 0 none;
-  box-shadow: 0.2rem 0.3rem 0.5rem 0.1rem rgba(0, 0, 0, 0.705);
+  box-shadow: 0.2rem 0.2rem 0.5rem 0.1rem rgba(248, 248, 248, 0.61);
   margin: 0;
   padding: 0;
   filter: brightness(70%);
