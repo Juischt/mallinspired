@@ -1,0 +1,69 @@
+@font-face {
+  font-family: "Schrift 1";
+  src: url("/assets/fonts/hellofriendbrushscriptfont.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Schrift 2";
+  src: url("/assets/fonts/Nathals.otf");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Schrift 3";
+  src: url("/assets/fonts/Elephant-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Schrift 4";
+  src: url("/assets/fonts/CooperBlack.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Schrift 5";
+  src: url("/assets/fonts/Stencil.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Schrift 6";
+  src: url("/assets/fonts/ForteMT.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Schrift 7";
+  src: url("/assets/fonts/GillSans-UltraBoldCondensed.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+#text {
+  font-size: 500%;
+}
+
+.form-select,
+.form-control {
+  width: 80%;
+  display: unset;
+}
+
+#submitButton {
+  margin-top: 5rem;
+}
