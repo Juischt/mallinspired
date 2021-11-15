@@ -96,7 +96,7 @@
                     <div class="col">
                         <input v-model="text" placeholder="Wunschtext" type="text" class="form-control">
                     </div>
-                    <div class="col">
+                    <div class="col custom-select2">
                         <select v-model="selectedColor" class="form-select">
                             <option disabled>Bitte auswählen</option>
                             <option v-for="option in optionsColor">
@@ -104,10 +104,10 @@
                             </option>
                         </select>
                     </div>
-                    <div class="col">
-                        <select v-model="selectedFont" class="form-select">
+                    <div class="col custom-select">
+                        <select v-model="selectedFont" class="form-select" id="selectFont" oninput="leer()">
                             <option disabled>Bitte auswählen</option>
-                            <option v-for="option in optionsFont">
+                            <option v-for="option in optionsFont" v-bind:class="option.value">
                                 {{ option.fontname }}
                             </option>
                         </select>

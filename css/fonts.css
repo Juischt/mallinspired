@@ -40,9 +40,10 @@
 
 @font-face {
   font-family: "Schrift 6";
-  src: url("/assets/fonts/ForteMT.ttf") format("truetype");
+  src: url("/assets/fonts/ForteMT.woff2") format("woff2"), url("/assets/fonts/ForteMT.woff") format("woff"), url("/assets/fonts/ForteMT.ttf") format("truetype"),
+    url("/assets/fonts/ForteMT.svg#ForteMT") format("svg");
   font-weight: normal;
-  font-style: italic;
+  font-style: normal;
   font-display: swap;
 }
 
@@ -66,4 +67,159 @@
 
 #submitButton {
   margin-top: 5rem;
+}
+
+.f1 {
+  font-family: "Schrift 1";
+}
+.f2 {
+  font-family: "Schrift 2";
+}
+.f3 {
+  font-family: "Schrift 3";
+}
+.f4 {
+  font-family: "Schrift 4";
+}
+.f5 {
+  font-family: "Schrift 5";
+}
+.f6 {
+  font-family: "Schrift 6";
+}
+.f7 {
+  font-family: "Schrift 7";
+}
+
+.custom-select {
+  position: relative;
+  /*font-family: "Schrift 1";*/
+}
+
+.custom-select select {
+  display: none; /*hide original SELECT element: */
+}
+
+.select-selected {
+  background-color: white;
+}
+
+/* Style the arrow inside the select element: */
+.select-selected:after {
+  position: absolute;
+  content: "";
+  top: 14px;
+  right: 10px;
+  width: 0;
+  height: 0;
+  border: 6px solid transparent;
+  border-color: rgb(167, 167, 167) transparent transparent transparent;
+}
+
+/* Point the arrow upwards when the select box is open (active): */
+.select-selected.select-arrow-active:after {
+  border-color: transparent transparent rgb(167, 167, 167) transparent;
+  top: 7px;
+}
+
+/* style the items (options), including the selected item: */
+.select-items div,
+.select-selected {
+  color: #000000;
+  padding: 8px 16px;
+  border: 1px solid transparent;
+  border-color: transparent transparent rgba(167, 167, 167, 0.1) transparent;
+  cursor: pointer;
+}
+
+/* Style items (options): */
+.select-items {
+  position: absolute;
+  background-color: white;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 99;
+}
+
+/* Hide the items when the select box is closed: */
+.select-hide {
+  display: none;
+}
+
+.select-items div:hover,
+.same-as-selected {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+/* 
+
+
+
+
+
+
+
+
+*/
+
+.custom-select2 {
+  position: relative;
+  /*font-family: "Schrift 1";*/
+}
+
+.custom-select2 select {
+  display: none; /*hide original SELECT element: */
+}
+
+.select-selected2 {
+  background-color: white;
+}
+
+/* Style the arrow inside the select element: */
+.select-selected2:after {
+  position: absolute;
+  content: "";
+  top: 14px;
+  right: 10px;
+  width: 0;
+  height: 0;
+  border: 6px solid transparent;
+  border-color: rgb(167, 167, 167) transparent transparent transparent;
+}
+
+/* Point the arrow upwards when the select box is open (active): */
+.select-selected2.select-arrow-active:after {
+  border-color: transparent transparent rgb(167, 167, 167) transparent;
+  top: 7px;
+}
+
+/* style the items (options), including the selected item: */
+.select-items2 div,
+.select-selected2 {
+  color: #000000;
+  padding: 8px 16px;
+  border: 1px solid transparent;
+  border-color: transparent transparent rgba(167, 167, 167, 0.1) transparent;
+  cursor: pointer;
+}
+
+/* Style items (options): */
+.select-items2 {
+  position: absolute;
+  background-color: white;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 99;
+}
+
+/* Hide the items when the select box is closed: */
+.select-hide2 {
+  display: none;
+}
+
+.select-items2 div:hover,
+.same-as-selected2 {
+  background-color: rgba(0, 0, 0, 0.1);
 }
